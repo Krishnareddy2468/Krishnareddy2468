@@ -1,16 +1,19 @@
 ## Hi, I’m N. Krishna Reddy
 
-Software Engineer with hands-on experience in **backend development,
-AI/ML systems, and real-world hardware–software integrated projects**.
+Engineer with experience across **software systems, AI/ML, and
+hardware–software integrated applications**, built in academic,
+startup, and government-funded environments.
 
-### What I work on
-- **Backend & Systems:** Java, Spring Boot, Python, Flask, REST APIs
-- **AI/ML:** Computer Vision, Deep Learning, End-to-End AI Systems
-- **Systems:** Embedded systems, sensor integration, offline-capable applications
+### Domains I work in
+- **Software & Backend Engineering:** Java, Spring Boot, Python, Flask, REST APIs
+- **AI / Machine Learning:** Computer Vision, Deep Learning, End-to-End AI Systems
+- **Systems & IoT:** Embedded systems, sensor integration, offline-capable applications
+- **Applied Research:** ML-driven systems, experimentation, and evaluation
 
-### Experience highlights
-- Built **production-style full-stack applications** used in real environments
-- Worked on a **government-funded consultancy project (MECL, Govt. of India)**
-- Experience with system constraints like **offline operation and hardware integration**
+### What I’ve built
+- Full-stack applications designed for **real-world usage and deployment**
+- AI systems that go beyond models into **end-to-end pipelines**
+- Software integrated with **hardware and sensor-based systems**
+- Projects developed under **government-funded and university-led initiatives**
 
-Currently seeking **Software Engineer / Backend / AI Engineer** roles.
+Seeking opportunities in **Software Engineering, Backend, AI/ML, and Systems roles**.
