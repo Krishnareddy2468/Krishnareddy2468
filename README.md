@@ -5,7 +5,7 @@ hardware–software integrated applications**, built in academic,
 startup, and government-funded environments.
 
 ### Domains I work in
-- **Software & Backend Engineering:** Java, Spring Boot, Python, Flask, REST APIs
+- **Software & Backend Engineering:** Java, Python, Flask, REST APIs
 - **AI / Machine Learning:** Computer Vision, Deep Learning, End-to-End AI Systems
 - **Systems & IoT:** Embedded systems, sensor integration, offline-capable applications
 - **Applied Research:** ML-driven systems, experimentation, and evaluation
